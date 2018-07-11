@@ -1,4 +1,4 @@
-<a href='https://jetml.com/launch?repo=https://github.com/njmote/artistic-style-transfer.git&name=artistic-style-transfer&server_size=single_gpu&language=python_2.7'><img style='width: 350px;' width='350' src='https://jetml.com/account/assets/jetml-button.png'></a>
+<a href='https://jetml.com/launch?repo=https://github.com/njmote/artistic-style-transfer.git&name=artistic-style-transfer&server_size=single_gpu&language=python_3.5'><img style='width: 350px;' width='350' src='https://jetml.com/account/assets/jetml-button.png'></a>
 
 # Convolutional neural networks for artistic style transfer
 
